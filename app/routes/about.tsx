@@ -36,7 +36,7 @@ export default function About() {
               <div className="aspect-square rounded-2xl bg-zinc-900 overflow-hidden">
                 <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/20 to-transparent z-10" />
                 <img 
-                  src="/image1.jpg?height=600&width=600" 
+                  src="/image3.png?height=600&width=600" 
                   alt="Anurag Saroj" 
                   className="w-full h-full object-cover mix-blend-luminosity"
                 />

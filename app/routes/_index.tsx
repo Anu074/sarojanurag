@@ -149,7 +149,7 @@ export default function Index() {
               <div className="aspect-square rounded-2xl bg-zinc-900 overflow-hidden relative">
                 <div className="absolute inset-0 bg-gradient-to-br from-emerald-500/20 to-transparent" />
                 <img 
-                  src="/image9.jpg?height=600&width=600" 
+                  src="/anu.jpg?height=600&width=600" 
                   alt="Anurag Saroj" 
                   className="w-full h-full object-cover mix-blend-luminosity opacity-80"
                 />
